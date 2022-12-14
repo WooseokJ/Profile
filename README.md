@@ -1,6 +1,6 @@
 # 안녕하세요 👋
 ### 🤖 소개 
-- 📭 이메일 : [wooseokbird@@gmail.com](wooseokbird@@gmail.com)
+- 📭 이메일 : [wooseokbird.dev@gmail.com](wooseokbird.dev@gmail.com)
 - 🔖 이력서 : [Resume](https://wave-sloth-474.notion.site/50ce7e18424a46989fe8915c8d08bb62)
 - 🌐 블로그 : [blog](https://hotsanit.tistory.com/)
 
