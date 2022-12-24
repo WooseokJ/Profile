@@ -10,5 +10,5 @@
 
 
 ### 💻 iOS 프로젝트 
-- EggTime
-- Service Level Project
+- [EggTime](https://github.com/WooseokJ/EggTime)
+- [Service Level Project](https://github.com/WooseokJ/ServiceLevelProject)
